@@ -11,6 +11,8 @@
 
 Hi, I’m Léa, a French developer and Bachelor of Science in Computer Science student at Université de Lille. Feel free to explore my projects !
 
+I'm actually working for [Ekalia](https://ekalia.fr) as Volunteer Junior Developer.
+
 # My projects
 [SimpleGraph](https://github.com/Lea-Bar/SimpleGraph) : SimpleGraph is an ElectronJS app written in TypeScript that lets you design computer-science graphs completely offline. Inspired by the [CS Academy Graph Editor](https://csacademy.com/app/graph_editor/), it provides a clean, streamlined interface without the gravity feature.
 

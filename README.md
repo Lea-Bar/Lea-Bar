@@ -28,6 +28,7 @@ I'm actually working for [Ekalia](https://ekalia.fr) as Volunteer Java Junior De
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </p>
 <p><strong>Desktop application frameworks :</strong></p>
 <p align="left">
@@ -44,6 +45,7 @@ I'm actually working for [Ekalia](https://ekalia.fr) as Volunteer Java Junior De
   <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white">
 </p>
 <p><strong>CI/CD tools and DevOps :</strong></p>
 <p align="left">
